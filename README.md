@@ -6,4 +6,4 @@ Simple MLflow example using Boston data set with GradientBoostingRegressor
 * Example: export MLFLOW_TRACKING_URI=http://localhost:7000
 
 ## Using default parameters
-* mlflow run --experiment-name qconlondon-basic-mlflow  --no-conda https://github.com/[user-id]/boston-gradientboosting-mlflow 
+* mlflow run --experiment-name [experiment name] --no-conda https://github.com/[user-id]/boston-gradientboosting-mlflow 
